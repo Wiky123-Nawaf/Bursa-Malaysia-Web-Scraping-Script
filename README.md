@@ -25,3 +25,6 @@
 3.  Chromedriver autoinstaller
 4.  Pandas
 6.  Time
+
+**Scrapping Code for BURSA Malaysia Website—So You Don’t Have To! 📈🤖**
+![Image](https://github.com/user-attachments/assets/f071c7c1-9dd8-41b0-aa2f-476046c2c1d4)
